@@ -52,5 +52,6 @@ img{
 h3{
   border-style: solid;
   border-color: #ffffff;
+  border-width: 5px;
   text-align: center;
 }
