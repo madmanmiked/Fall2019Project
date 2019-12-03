@@ -49,3 +49,8 @@ img{
     margin-right: auto;
 }
 
+h3{
+  border-style: solid;
+  border-color: #ffffff;
+  text-align: center;
+}
