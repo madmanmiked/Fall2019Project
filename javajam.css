@@ -50,8 +50,10 @@ img{
 }
 
 h3{
-  border-style: solid;
-  border-color: #ffffff;
-  border-width: 5px;
   text-align: center;
+  box-sizing: content-box;  
+  width: 300px;
+  height: 100px;
+  padding: 30px;  
+  border: 10px solid #f5f4f2;
 }
